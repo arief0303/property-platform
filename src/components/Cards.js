@@ -9,7 +9,7 @@ export default function Cards() {
         <Carousel />
       </figure>
       <div className="card-body">
-        <h2 className="card-title">Beautiful abodes for your properity!</h2>
+        <h2 className="card-title">Beautiful abodes for your prosperity!</h2>
         <p>View more.</p>
         <div className="card-actions justify-end">
           <button className="btn btn-primary">View</button>
